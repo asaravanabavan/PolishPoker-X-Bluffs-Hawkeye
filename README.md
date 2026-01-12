@@ -8,11 +8,11 @@ Technical Interview Submission for Hawk-Eye Innovations
 
 ```bash
 # Python 3.10+ required (Standard Library only)
-open folder in terminal, or run from your ide terminal
+#open folder in terminal, or run from your ide terminal
 
 python main.py
 
-enjoy!
+#enjoy!
 ```
 
 ---
