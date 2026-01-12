@@ -1,6 +1,6 @@
 # Polish Bluff Poker
 
-A CLI card game combining Golf, Cambio, and Bluffing mechanics.
+A CLI card game combining Polish Poker, Cambio, and Bluffing mechanics, with Hawk-Eye themed elements.
 
 Technical Interview Submission for Hawk-Eye Innovations
 
@@ -8,7 +8,11 @@ Technical Interview Submission for Hawk-Eye Innovations
 
 ```bash
 # Python 3.10+ required (Standard Library only)
+open folder in terminal, or run from your ide terminal
+
 python main.py
+
+enjoy!
 ```
 
 ---
@@ -66,7 +70,7 @@ submission_hawk_eye_abishaan/
 - Python 3.10+ with type hints
 - State machine pattern for game flow
 - Standard library only (no external dependencies)
-- Probability-based AI
+- Probability-based Agent
 - 117 unit tests
 - VAR challenge system with bluff detection
 
