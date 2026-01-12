@@ -1,0 +1,3 @@
+# Polish Bluff Poker
+# No external dependencies required - Python 3.10+ Standard Library Only
+# This demonstrates mastery of core Python without dependency bloat
